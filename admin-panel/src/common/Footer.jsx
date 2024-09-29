@@ -9,7 +9,7 @@ export default function Footer() {
     </span>
     <ul className="flex flex-wrap items-center mt-3 text-sm font-medium text-gray-500 sm:mt-0">
         <li>
-            <a href="#" className="hover:underline me-4 md:me-6">Design By <span className='text-blue-600'>Roshan Chaurasia</span></a>
+            <a href="#" className="hover:underline me-4 md:me-6">Designed By: <span className='text-blue-600'>Sanjeev Raj</span></a>
         </li>
         
     </ul>
